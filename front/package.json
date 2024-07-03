@@ -1,0 +1,25 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "blog cutre de nmms",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmilTorres18/blog_cutre.git"
+  },
+  "keywords": [
+    "GEMAgracias"
+  ],
+  "author": "Emi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmilTorres18/blog_cutre/issues"
+  },
+  "homepage": "https://github.com/EmilTorres18/blog_cutre#readme",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
